@@ -1,1 +1,1 @@
-docker build . --tag selex
+docker build . --tag dktanwar/selex
